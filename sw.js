@@ -1,12 +1,12 @@
 const cacheName = 'my-site-cache-v1';
 const urlsToCache = [
-  '/calc/',
-  '/calc/terms.html',
-  '/calc/readme.md'
-  '/calc/icon/fox.png',
-  '/calc/index.js',
-  '/calc/style.css',
-  '/calc/icon/fox.png',
+  '/pokeemu/',
+  '/pokeemu/terms.html',
+  '/pokeemu/readme.md'
+  '/pokeemu/icon/fox.png',
+  '/pokeemu/index.js',
+  '/pokeemu/style.css',
+  '/pokeemu/icon/fox.png',
 ];
 
 self.addEventListener('install', event => {
